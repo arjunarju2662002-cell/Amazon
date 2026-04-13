@@ -108,11 +108,12 @@ span{
     font-weight: 700;
 }
 .nav-en{
+    display: flex;
+    align-items: center;
     height: 50px;
     width: 40px;
     font-size: 14px;
     font-weight: 700;
-    padding-top: 50px;
 }
 
 .nav-signin{
